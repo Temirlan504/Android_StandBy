@@ -2,4 +2,6 @@
     <string name="app_name">Android_StandBy</string>
     <string name="default_time">02:59</string>
     <string name="default_date">Wed 29</string>
+    <string name="default_weather">25°C</string>
+    <string name="weather_icon">weather_icon</string>
 </resources>
